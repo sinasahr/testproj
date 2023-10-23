@@ -1,2 +1,2 @@
 # testproj
-this is sample test for work with repository
+this is sample test for starting with repository
